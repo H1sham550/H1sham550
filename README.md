@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @H1sham550
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 📫 How to reach me - hishamts550@gmail.com
