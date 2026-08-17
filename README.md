@@ -138,7 +138,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Snake animation](https://cdn.jsdelivr.net/gh/H1sham550/H1sham550@output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
