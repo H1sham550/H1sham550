@@ -138,7 +138,7 @@
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/H1sham550/H1sham550@output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="github-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
