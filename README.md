@@ -23,7 +23,7 @@
 ```yaml
  Name        : H1sham
  Role        : Backend Developer
- OS          : Arch Linux
+ OS          : Arch Linux (btw)
  Editor      : VS Code / Neovim
  Building    : WashDeck — a full-stack service platform
  Interests   : System design, APIs, DevOps, open source
@@ -138,11 +138,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
