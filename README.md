@@ -138,10 +138,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/H1sham550/H1sham550/raw/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Snake" src="https://github.com/H1sham550/H1sham550/raw/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/H1sham550/H1sham550/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
